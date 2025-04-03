@@ -1,6 +1,3 @@
-I'll help you create a basic README.md file for your GitHub repository. Based on your code, it appears to be a job details scraping project.
-
-```markdown:README.md
 # Job Details Scraper
 
 A Python-based web scraper that extracts job listings and stores them in a SQLite database. This tool helps collect job information including titles, descriptions, contact details, and application links.
