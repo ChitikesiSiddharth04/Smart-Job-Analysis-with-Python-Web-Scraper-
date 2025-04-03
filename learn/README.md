@@ -36,12 +36,10 @@ from JobDetailsDataServices import JobDetailsDataService
 job_details_service = JobDetailsDataService()
 job_details_service.add_job_details_from_link("YOUR_JOB_LISTING_URL")
 ```
-
 ## License
 
 [Add your chosen license here]
 ```
-
 This README provides a basic overview of your project, its features, setup instructions, and usage example. Feel free to customize it further by:
 
 1. Adding more detailed installation instructions
